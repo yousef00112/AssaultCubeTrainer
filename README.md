@@ -16,30 +16,7 @@ A powerful external trainer/hack for Assault Cube built with C# Windows Forms. T
 - **Player Fly**: Fly across the map to reach any spot effortlessly.
 - **Auto Gun**: Automate weapon firing for steady shooting.
 
-## Installation
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/assault-cube-trainer.git
-    ```
-2. Open the solution file (`.sln`) in Visual Studio.
-3. Build the project to compile the executable.
-
 ## Usage
 
-1. Run the compiled executable.
-2. Configure the desired cheats and features within the application.
-3. Enjoy enhanced gameplay!
-
-## Disclaimer
-
-Using cheats and hacks may violate the terms of service of the game and could result in penalties or bans. Use this tool responsibly and at your own risk.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any issues or contributions, please open an issue on the GitHub repository or contact [your-email@example.com](mailto:your-email@example.com).
-
+1. Download the latest Release
+2. run telchid.exe
