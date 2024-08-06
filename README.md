@@ -17,6 +17,6 @@ A powerful external trainer/hack for Assault Cube built with C# Windows Forms. T
 - **Auto Gun**: Automate weapon firing for steady shooting.
 
 ## Usage
-
+1. Make Sure You have Downloaded .net 8.0 runtime [Download](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 1. Download the latest Release
 2. run telchid.exe
