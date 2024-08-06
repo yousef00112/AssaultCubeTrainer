@@ -18,5 +18,7 @@ A powerful external trainer/hack for Assault Cube built with C# Windows Forms. T
 
 ## Usage
 1. Make Sure You have Downloaded .net 8.0 runtime [Download](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
-1. Download the latest Release
-2. run telchid.exe
+2. Download The Latest Release [Download](https://github.com/yousef00112/AssaultCubeTrainer/releases/)
+3. open assault cube
+4. open telchid.exe
+5. press inject button
