@@ -1,0 +1,96 @@
+C:\Users\Shadow\Desktop\b\telchid\bin\Release\net8.0-windows\telchid.exe
+C:\Users\Shadow\Desktop\b\telchid\bin\Release\net8.0-windows\telchid.deps.json
+C:\Users\Shadow\Desktop\b\telchid\bin\Release\net8.0-windows\telchid.runtimeconfig.json
+C:\Users\Shadow\Desktop\b\telchid\bin\Release\net8.0-windows\telchid.dll
+C:\Users\Shadow\Desktop\b\telchid\bin\Release\net8.0-windows\telchid.pdb
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.csproj.GenerateResource.cache
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.AssemblyInfoInputs.cache
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.AssemblyInfo.cs
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.dll
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\refint\telchid.dll
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.pdb
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.genruntimeconfig.cache
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\ref\telchid.dll
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.Spoofer.resources
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.Properties.Resources.resources
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.Extra.resources
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.MainFortnite.resources
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.MainForm.resources
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.mcmsForm.resources
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.AcForm.resources
+C:\Users\Shadow\Desktop\b\telchid\bin\Release\net8.0-windows\Memory.dll
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.csproj.AssemblyReference.cache
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.csproj.Up2Date
+C:\Users\Shadow\Desktop\b\telchid\bin\Release\net8.0-windows\swed32.dll
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.ac_src.AimbotForm.resources
+C:\Users\Shadow\Desktop\b\telchid\obj\Release\net8.0-windows\telchid.ac_src.EspForm.resources
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.csproj.AssemblyReference.cache
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.AcForm.resources
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.MainForm.resources
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.mcmsForm.resources
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.Properties.Resources.resources
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.csproj.GenerateResource.cache
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.AssemblyInfoInputs.cache
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.AssemblyInfo.cs
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.dll
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\refint\telchid.dll
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.pdb
+C:\Users\Shadow\Desktop\b\project\telchid\bin\Release\net8.0-windows\telchid.exe
+C:\Users\Shadow\Desktop\b\project\telchid\bin\Release\net8.0-windows\telchid.deps.json
+C:\Users\Shadow\Desktop\b\project\telchid\bin\Release\net8.0-windows\telchid.runtimeconfig.json
+C:\Users\Shadow\Desktop\b\project\telchid\bin\Release\net8.0-windows\telchid.dll
+C:\Users\Shadow\Desktop\b\project\telchid\bin\Release\net8.0-windows\telchid.pdb
+C:\Users\Shadow\Desktop\b\project\telchid\bin\Release\net8.0-windows\Memory.dll
+C:\Users\Shadow\Desktop\b\project\telchid\bin\Release\net8.0-windows\swed32.dll
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.csproj.Up2Date
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\telchid.genruntimeconfig.cache
+C:\Users\Shadow\Desktop\b\project\telchid\obj\Release\net8.0-windows\ref\telchid.dll
+C:\Users\Shadow\Desktop\b\project\c#\telchid\bin\Release\net8.0-windows\telchid.exe
+C:\Users\Shadow\Desktop\b\project\c#\telchid\bin\Release\net8.0-windows\telchid.deps.json
+C:\Users\Shadow\Desktop\b\project\c#\telchid\bin\Release\net8.0-windows\telchid.runtimeconfig.json
+C:\Users\Shadow\Desktop\b\project\c#\telchid\bin\Release\net8.0-windows\telchid.dll
+C:\Users\Shadow\Desktop\b\project\c#\telchid\bin\Release\net8.0-windows\telchid.pdb
+C:\Users\Shadow\Desktop\b\project\c#\telchid\bin\Release\net8.0-windows\Memory.dll
+C:\Users\Shadow\Desktop\b\project\c#\telchid\bin\Release\net8.0-windows\swed32.dll
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.csproj.AssemblyReference.cache
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.AcForm.resources
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.MainForm.resources
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.mcmsForm.resources
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.Properties.Resources.resources
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.csproj.GenerateResource.cache
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.AssemblyInfoInputs.cache
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.AssemblyInfo.cs
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.csproj.Up2Date
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.dll
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\refint\telchid.dll
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.pdb
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\telchid.genruntimeconfig.cache
+C:\Users\Shadow\Desktop\b\project\c#\telchid\obj\Release\net8.0-windows\ref\telchid.dll
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.csproj.AssemblyReference.cache
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.MainForm.resources
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.Properties.Resources.resources
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.csproj.GenerateResource.cache
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.AssemblyInfoInputs.cache
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.AssemblyInfo.cs
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.dll
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\refint\telchid.dll
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.pdb
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\bin\Release\net8.0-windows\telchid.exe
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\bin\Release\net8.0-windows\telchid.deps.json
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\bin\Release\net8.0-windows\telchid.runtimeconfig.json
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\bin\Release\net8.0-windows\telchid.dll
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\bin\Release\net8.0-windows\telchid.pdb
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\bin\Release\net8.0-windows\Memory.dll
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\bin\Release\net8.0-windows\swed32.dll
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.csproj.Up2Date
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.genruntimeconfig.cache
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\ref\telchid.dll
+C:\Users\Shadow\Desktop\b\code\visual studio\telchid\obj\Release\net8.0-windows\telchid.AcForm.resources

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekfJ0w9rx4E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shadow\\Desktop\\b\\code\\visual studio\\telchid\\telchid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shadow\\.nuget\\packages\\memory.dll.x86\\1.2.26\\memory.dll.x86.1.2.26.nupkg.sha512",
+    "C:\\Users\\Shadow\\.nuget\\packages\\swed32\\1.1.0\\swed32.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
